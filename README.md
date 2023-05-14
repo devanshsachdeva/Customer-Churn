@@ -50,7 +50,7 @@ The repository is structured as follows:
 
 ```
 ├── data/
-│   ├── customer_churn_dataset.csv
+│   ├── customer_churn_dataset.csv (Coming Soon)
 │   └── ...
 │
 ├── scripts/
